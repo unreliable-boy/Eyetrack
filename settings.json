@@ -1,0 +1,15 @@
+{   
+    "project_root": "D:/EyeTrack/EyeTrackData/",
+    "DataNumber": "XXL_0114_Readtxt_Dark/",
+    "tcp_ip": "127.0.0.1",
+    "tcp_port": 6789,
+    "widget0": {
+        "capture_source": "COM4",
+        "image_save_address": "Left/"
+    },
+    "widget1": {
+        "capture_source": "COM6",
+        "image_save_address": "Right/"
+    }
+    
+}
